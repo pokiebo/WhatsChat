@@ -5,10 +5,32 @@
 
 ## Description
 
-WhatsChat is an internet based messaging app similar to WhatsApp, the popular messaging app that was bought by Facebook. It uses a service called Firebase as a backend data server to store and retrieve our messages from the cloud. 
+WhatsChat is amessaging app similar to WhatsApp, the popular messaging app owned by Facebook. It uses Firebase as a backend data server to store and retrieve our messages from the cloud. 
 
 ##Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/FNPbQt7"><a href="//imgur.com/FNPbQt7">WhatsChat demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Here's a walkthrough of implemented user stories:
+
+<img src='[Imgur](https://i.imgur.com/Esw5v2j.gifv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+
+## License
+
+Copyright [2018] [Sudipta Bhowmik]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 
 
