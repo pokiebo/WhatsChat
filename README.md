@@ -7,13 +7,15 @@
 
 WhatsChat is amessaging app similar to WhatsApp, the popular messaging app owned by Facebook. It uses Firebase as a backend data server to store and retrieve our messages from the cloud. 
 
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented stories:
+Here's a walkthrough of implemented user stories:
 
 <img src='[Imgur](https://i.imgur.com/Esw5v2j.gifv)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 
 
